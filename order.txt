@@ -1,0 +1,10 @@
+Hashing 
+Dynamic memory first
+1. Xor hash
+2. DJB2
+3. FNV-1a
+3. Adler 32
+5. CRC32
+6.MD5
+7. SHA 1
+8. SHA 256
